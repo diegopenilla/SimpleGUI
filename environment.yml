@@ -6,3 +6,4 @@
     - ipywidgets
     - numpy
     - matplotlib
+    - seaborn
