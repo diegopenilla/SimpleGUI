@@ -1,0 +1,8 @@
+  name: example-environment
+  
+  dependencies:
+    - python=3.6
+    - pandas
+    - ipywidgets
+    - numpy
+    - matplotlib
